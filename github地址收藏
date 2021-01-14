@@ -1,0 +1,24 @@
+
+1）深度学习框架Pytorchhttps://github.com/pytorch/pytorch
+2）深度学习框架Tensorflowhttps://github.com/tensorflow/tensorflow
+3）机器学习库scikit-learnhttps://github.com/scikit-learn/scikit-learn
+4）自然语言处理时下最流行的Transformer库https://github.com/huggingface/transformers
+5）自然语言处理工业级别库spaCyhttps://github.com/explosion/spaCy
+6）自然语言处理Toolkit NLTKhttps://github.com/nltk/nltk
+7）自然语言处理经典模型库Gensimhttps://github.com/RaRe-Technologies/gensim
+8）图计算库NetworkXhttps://github.com/networkx/networkx
+9）XGBoosthttps://github.com/dmlc/xgboost
+10）深度学习FastAIhttps://github.com/fastai/fastai
+
+<b>预训练</b>
+
+1）Glovehttps://nlp.stanford.edu/projects/glove/
+2）FastTexthttps://fasttext.cc/
+3）MUSEhttps://github.com/facebookresearch/MUSE
+4）ELMohttps://allennlp.org/elmo
+5）BERThttps://github.com/google-research/bert
+6）XLNethttps://github.com/zihangdai/xlnet
+7）XLMhttps://github.com/facebookresearch/XLM
+8）OpenAI-GPT2https://github.com/openai/gpt-2-output-dataset
+9）ResNet, VGGhttps://keras.io/applications/
+10）YOLOv2https://github.com/experiencor/keras-yolo2
